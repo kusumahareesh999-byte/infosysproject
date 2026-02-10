@@ -1,0 +1,11 @@
+com\wellnest\MongoDBHealthController.class
+com\wellnest\WellnestApp.class
+com\wellnest\UserController.class
+com\wellnest\SecurityConfig.class
+com\wellnest\UserRepository.class
+com\wellnest\WellnestApp$1.class
+com\wellnest\WelcomeController.class
+com\wellnest\EmailService.class
+com\wellnest\MongoDBConfig.class
+com\wellnest\User.class
+com\wellnest\MongoDBTestApp.class
